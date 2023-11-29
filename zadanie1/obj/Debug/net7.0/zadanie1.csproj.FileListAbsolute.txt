@@ -1,0 +1,14 @@
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.AssemblyInfoInputs.cache
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.AssemblyInfo.cs
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\bin\Debug\net7.0\zadanie1.exe
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\bin\Debug\net7.0\zadanie1.deps.json
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\bin\Debug\net7.0\zadanie1.runtimeconfig.json
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\bin\Debug\net7.0\zadanie1.dll
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\bin\Debug\net7.0\zadanie1.pdb
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.dll
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\refint\zadanie1.dll
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.pdb
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\zadanie1.genruntimeconfig.cache
+C:\Users\fuvis\Desktop\HomeWork(3,4)\zadanie1\obj\Debug\net7.0\ref\zadanie1.dll
